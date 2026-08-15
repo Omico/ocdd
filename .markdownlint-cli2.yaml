@@ -1,0 +1,5 @@
+gitignore: true
+config:
+  line-length: false
+  table-column-style:
+    style: compact

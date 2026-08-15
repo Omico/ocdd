@@ -1,0 +1,4 @@
+interface:
+  display_name: "OCDD Project Specifications"
+  short_description: "Write language-scoped OCDD project specifications"
+  default_prompt: "Use $ocdd-spec to create or revise a language-scoped OCDD project specification."
