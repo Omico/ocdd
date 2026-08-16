@@ -1,6 +1,6 @@
 # OCDD
 
-Omico Contract-Driven Development（OCDD）是一套以契约定义可观察行为，并由契约驱动验证、实现与接受的开发方法规范。
+Omico Contract-Driven Development（OCDD）是一套以契约定义可观察行为，并让契约贯穿验证、实现和最终验收的开发方法规范。
 
 当前 OCDD 1.0.0 仍处于草案阶段，可以用于评审和试行，不能作为正式合规声明的依据。
 
